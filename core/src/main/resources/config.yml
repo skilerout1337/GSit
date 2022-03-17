@@ -91,7 +91,7 @@ Options:
     block-center: true
 
     # Defines whether a player should receive a custom message when he starts to pose
-    show-pose-message: true
+    show-pose-message: false
 
     # Defines whether a player can interact with the environment while posing
     interact: false
