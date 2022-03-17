@@ -37,13 +37,7 @@ Messages:
 
   action-playersit-info: "&aUse your&6 <translatekey:key.sneak>&a Key to get up."
 
-  action-pose-now-error: "[P]&c You can't pose right now!"
-  action-pose-world-error: "[P]&c You can't pose in this world!"
-  action-pose-location-error: "[P]&c You can't pose here!"
-  action-pose-safe-error: "[P]&c It's not safe to pose here!"
-  action-pose-region-error: "[P]&c You can't pose in this region!"
-  action-pose-kick-error: "[P]&c Someone is already posing here!"
-  action-pose-info: "&aUse your&6 <translatekey:key.sneak>&a Key to get up."
+
 
   action-crawl-now-error: "[P]&c You can't crawl right now!"
   action-crawl-world-error: "[P]&c You can't crawl in this world!"
